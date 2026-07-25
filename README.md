@@ -14,7 +14,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 ## 🌐 Connect with Me
 
-<div align="center" style="display:flex; justify-content:center; gap:20px;">
+<div align="center" style="display:flex; justify-content:center; gap:100px;">
   <a href="https://github.com/ImedBnk23">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
