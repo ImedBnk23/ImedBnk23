@@ -14,17 +14,15 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
   <a href="https://github.com/ImedBnk23">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <a href="mailto:imedbnk23@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
