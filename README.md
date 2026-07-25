@@ -19,9 +19,15 @@
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 
+  <br><br>
+
+
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+
+  <br><br>
+
 
   <a href="mailto:imedbnk23@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
