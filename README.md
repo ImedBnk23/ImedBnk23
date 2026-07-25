@@ -21,10 +21,11 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
 </a>
 
-<a href="mailto:imedbnk23@gmail.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.png" alt="Gmail" height="40" width="40" />
-</a>
 
+  <a href="mailto:imedbnk23@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="40" width="40" />
+  </a>
+  
 </div>
 
 
