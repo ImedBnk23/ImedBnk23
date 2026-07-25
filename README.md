@@ -12,6 +12,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
 
 </div>
