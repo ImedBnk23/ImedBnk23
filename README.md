@@ -8,3 +8,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Hi,+I%27m+Imed+BENKHALFALLAH+👋" alt="Typing SVG" />
 </h1>
+
+
+<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
+</div>
