@@ -4,29 +4,29 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF7F50&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Hi,+I%27m+Imed+BENKHALFALLAH+👋"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF7F45&center=true&vCenter=true&width=700&height=70&duration=4445&lines=Hi,+I%27m+Imed+BENKHALFALLAH+👋"
     alt="Typing SVG"
   />
 </h1>
 
 ## 🌐 Technologies & Tools:
 <div align="center">
-  <h5>Web Development</h5>
+  <h4>Web Development</h4>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
-        width="50"
-        height="50"
+        width="45"
+        height="45"
       />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="50"
-        height="50"
+        width="45"
+        height="45"
       />
     </a>
     <a
@@ -37,16 +37,16 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript"
-        width="50"
-        height="50"
+        width="45"
+        height="45"
       />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react"
-        width="50"
-        height="50"
+        width="45"
+        height="45"
       />
     </a>
   </p>
