@@ -13,7 +13,7 @@
 
 ## ⚡ Technologies & Tools:
 <div align="center">
-  <h4>🎨 Frontend Development</h4>
+  <h3>🎨 Frontend Development</h3>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
@@ -53,7 +53,7 @@
     </a>
   </p>
 
-  <h4>⚙️ Backend Development</h4>
+  <h3>⚙️ Backend Development</h3>
   <p>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img
@@ -81,7 +81,7 @@
     </a>
   </p>
 
-  <h4>📱 Mobile App Development</h4>
+  <h3>📱 Mobile App Development</h3>
   <p>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img
@@ -101,7 +101,7 @@
     </a>
   </p>
 
-  <h4>🗃️ Database</h4>
+  <h3>🗃️ Database</h3>
   <p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
@@ -137,7 +137,7 @@
     </a>
   </p>
 
-  <h4>🤖 AI - ML & Deep Learning - Data science</h4>
+  <h3>🤖 AI - ML & Deep Learning - Data science</h3>
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
@@ -181,7 +181,7 @@
     </a>
   </p>
 
-  <h4>💻 Programming Languages</h4>
+  <h3>💻 Programming Languages</h3>
   <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img
@@ -237,7 +237,7 @@
     </a>
   </p>
 
-  <h4>🛠️ Tools & Frameworks</h4>
+  <h3>🛠️ Tools & Frameworks</h3>
   <p>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img
