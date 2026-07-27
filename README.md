@@ -11,7 +11,7 @@
 
 ## 🌐 Technologies & Tools:
 <div align="center">
-  <h4>Web Development</h4>
+  <h4>Frontend Development</h4>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
@@ -51,6 +51,7 @@
     </a>
   </p>
 
+  <h4>Backend Development</h4>
   <p>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img
@@ -72,6 +73,26 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
         alt="express"
+        width="45"
+        height="45"
+      />
+    </a>
+  </p>
+
+  <h4>Mobile App Development</h4>
+  <p>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+        alt="android"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://reactnative.dev/img/header_logo.svg"
+        alt="reactnative"
         width="45"
         height="45"
       />
