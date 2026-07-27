@@ -13,7 +13,7 @@
 <div align="center">
   <h3>Web Development</h3>
   <p>
-    <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/css/">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
