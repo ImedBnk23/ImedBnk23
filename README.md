@@ -136,11 +136,11 @@
   </p>
 
   <h4>AI - ML & Deep Learning - Data science</h4>
-  <p align="left">
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <p>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
-        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-        alt="opencv"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
         width="45"
         height="45"
       />
@@ -149,14 +149,6 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
         alt="pandas"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
         width="45"
         height="45"
       />
@@ -173,6 +165,14 @@
       <img
         src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
         alt="tensorflow"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+        alt="opencv"
         width="45"
         height="45"
       />
