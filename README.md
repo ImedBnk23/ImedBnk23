@@ -11,7 +11,7 @@
 
 ## 🌐 Technologies & Tools:
 <div align="center">
-  <p>Web Development</p>
+  <h5>Web Development</h5>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
