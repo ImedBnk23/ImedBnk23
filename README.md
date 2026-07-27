@@ -71,10 +71,10 @@
         height="45"
       />
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
+        alt="Express.js"
         width="45"
         height="45"
       />
