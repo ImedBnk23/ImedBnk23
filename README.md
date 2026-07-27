@@ -234,6 +234,26 @@
       />
     </a>
   </p>
+
+  <h4>Tools & Frameworks</h4>
+  <p>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        alt="docker"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        alt="git"
+        width="45"
+        height="45"
+      />
+    </a>
+  </p>
 </div>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
