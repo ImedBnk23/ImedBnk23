@@ -1,5 +1,7 @@
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
+  
 </div>
 
 <h1 align="center">
@@ -9,9 +11,9 @@
   />
 </h1>
 
-## 🌐 Technologies & Tools:
+## ⚡ Technologies & Tools:
 <div align="center">
-  <h4>Frontend Development</h4>
+  <h4>🎨 Frontend Development</h4>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
@@ -51,7 +53,7 @@
     </a>
   </p>
 
-  <h4>Backend Development</h4>
+  <h4>⚙️ Backend Development</h4>
   <p>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img
@@ -79,7 +81,7 @@
     </a>
   </p>
 
-  <h4>Mobile App Development</h4>
+  <h4>📱 Mobile App Development</h4>
   <p>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img
@@ -99,7 +101,7 @@
     </a>
   </p>
 
-  <h4>Database</h4>
+  <h4>🗃️ Database</h4>
   <p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
@@ -135,7 +137,7 @@
     </a>
   </p>
 
-  <h4>AI - ML & Deep Learning - Data science</h4>
+  <h4>🤖 AI - ML & Deep Learning - Data science</h4>
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
@@ -179,7 +181,7 @@
     </a>
   </p>
 
-  <h4>Programming Languages</h4>
+  <h4>💻 Programming Languages</h4>
   <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img
@@ -235,7 +237,7 @@
     </a>
   </p>
 
-  <h4>Tools & Frameworks</h4>
+  <h4>🛠️ Tools & Frameworks</h4>
   <p>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img
@@ -279,5 +281,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
+  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
+  
 </div>
