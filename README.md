@@ -98,6 +98,42 @@
       />
     </a>
   </p>
+
+  <h4>Database</h4>
+  <p align="left">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+        alt="oracle"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+        alt="sqlite"
+        width="45"
+        height="45"
+      />
+    </a>
+  </p>
 </div>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
