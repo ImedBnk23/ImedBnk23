@@ -50,6 +50,33 @@
       />
     </a>
   </p>
+
+  <p>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+        alt="php"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        alt="express"
+        width="45"
+        height="45"
+      />
+    </a>
+  </p>
 </div>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
