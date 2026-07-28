@@ -9,6 +9,26 @@
   />
 </h1>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ImedBnk23">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:imedbnk23@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail" width="45" alt="Gmail">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## ⚡ Technologies & Tools:
 <div align="center">
   <h3>🎨 Frontend Development</h3>
