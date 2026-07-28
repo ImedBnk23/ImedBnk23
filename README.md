@@ -337,17 +337,17 @@
 
 <div align="center">
   <a href="https://github.com/ImedBnk23">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:imedbnk23@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
 </div>
