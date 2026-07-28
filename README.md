@@ -1,7 +1,5 @@
 <div align="center">
-  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
-  
 </div>
 
 <h1 align="center">
@@ -13,43 +11,20 @@
 
 ## ⚡ Technologies & Tools:
 <div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  
   <h3>🎨 Frontend Development</h3>
+  
+  <a href="https://skillicons.dev" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,react"
+      alt="Frontend Skills"
+    />
+  </a>
+
   <p>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
+        alt="React"
         width="45"
         height="45"
       />
@@ -74,10 +49,10 @@
         height="45"
       />
     </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="Express.js"
+        alt="express"
         width="45"
         height="45"
       />
@@ -284,7 +259,5 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
-  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
-  
 </div>
