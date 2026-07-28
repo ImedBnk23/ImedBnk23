@@ -267,6 +267,10 @@
           />
         </a>
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img
