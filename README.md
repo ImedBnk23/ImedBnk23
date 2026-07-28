@@ -1,5 +1,7 @@
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
+  
 </div>
 
 <h1 align="center">
@@ -265,6 +267,18 @@
         height="45"
       />
     </a>
+    <a
+      href="https://en.wikipedia.org/wiki/SQL"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"
+        alt="SQL"
+        width="45"
+        height="45"
+      />
+    </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
@@ -281,6 +295,14 @@
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+        alt="Visual Studio Code"
         width="45"
         height="45"
       />
@@ -335,5 +357,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
+  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
+  
 </div>
