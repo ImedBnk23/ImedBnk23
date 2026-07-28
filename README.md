@@ -11,11 +11,10 @@
 
 ## ⚡ Technologies & Tools:
 <div align="center">
-  <h3 align="center">🎨 Frontend Development</h3>
-
-  <table align="center">
+  <h3>🎨 Frontend Development</h3>
+  <table>
     <tr>
-      <td align="center">
+      <td>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -24,10 +23,9 @@
             height="45"
           />
         </a>
-        <br />HTML5
       </td>
 
-      <td align="center">
+      <td>
         <a
           href="https://www.w3schools.com/css/"
           target="_blank"
@@ -40,10 +38,9 @@
             height="45"
           />
         </a>
-        <br />CSS3
       </td>
 
-      <td align="center">
+      <td>
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           target="_blank"
@@ -56,10 +53,9 @@
             height="45"
           />
         </a>
-        <br />JavaScript
       </td>
 
-      <td align="center">
+      <td>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
@@ -68,11 +64,10 @@
             height="45"
           />
         </a>
-        <br />Bootstrap
       </td>
 
-      <td align="center">
-        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <td>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="React"
@@ -80,10 +75,9 @@
             height="45"
           />
         </a>
-        <br />React
       </td>
 
-      <td align="center">
+      <td>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
@@ -92,57 +86,10 @@
             height="45"
           />
         </a>
-        <br />Vite
       </td>
     </tr>
   </table>
-  <h3>🎨 Frontend Development</h3>
-  <p>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-        alt="Bootstrap"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+
 
   <h3>⚙️ Backend Development</h3>
   <p>
