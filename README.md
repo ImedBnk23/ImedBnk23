@@ -13,6 +13,18 @@
 <div align="center">
   <h3>🎨 Frontend Development</h3>
   <p>
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        alt="My Skills"
+      />
+    </a>
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        alt="My Skills"
+      />
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -165,6 +177,14 @@
       <img
         src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
         alt="tensorflow"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://keras.io" target="_blank" rel="noreferrer">
+      <img
+        src="https://keras.io/img/logo.png"
+        alt="Keras"
         width="45"
         height="45"
       />
