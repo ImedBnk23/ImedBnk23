@@ -12,6 +12,9 @@
 ## ⚡ Technologies & Tools:
 <div align="center">
   <h3>🎨 Frontend Development</h3>
+  ### 🎨 Frontend Development
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
