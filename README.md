@@ -75,6 +75,10 @@
           />
         </a>
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
           <img
@@ -257,6 +261,10 @@
           />
         </a>
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td>
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
           <img
@@ -267,10 +275,6 @@
           />
         </a>
       </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
       <td>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img
@@ -370,6 +374,10 @@
           />
         </a>
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td>
         <a
           href="https://en.wikipedia.org/wiki/SQL"
