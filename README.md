@@ -1,5 +1,7 @@
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
+  
 </div>
 
 <h1 align="center">
@@ -203,192 +205,265 @@
 
   <h3>🤖 AI - ML & Deep Learning - Data science</h3>
 
-  <p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-        alt="numpy"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-        alt="pandas"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
-        alt="matplotlib"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-        alt="seaborn"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-        alt="scikit_learn"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-        alt="tensorflow"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"
-        alt="keras"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-        alt="opencv"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+            alt="numpy"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+            alt="pandas"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+            alt="pandas"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+            alt="matplotlib"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+            alt="seaborn"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+            alt="scikit_learn"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+            alt="tensorflow"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://keras.io/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"
+            alt="keras"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+            alt="opencv"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <h3>💻 Programming Languages</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a
-      href="https://en.wikipedia.org/wiki/SQL"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"
-        alt="SQL"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-        alt="matlab"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td>
+        <a
+          href="https://www.cprogramming.com/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+            alt="c"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://www.w3schools.com/cpp/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://en.wikipedia.org/wiki/SQL"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"
+            alt="SQL"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+            alt="matlab"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <h3>🛠️ Tools & Frameworks</h3>
-  <p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-        alt="Visual Studio Code"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
-        alt="jupyter"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
-        alt="anaconda"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            alt="git"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://code.visualstudio.com/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+            alt="Visual Studio Code"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+            alt="jupyter"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
+            alt="anaconda"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
@@ -414,5 +489,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
+  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
+  
 </div>
