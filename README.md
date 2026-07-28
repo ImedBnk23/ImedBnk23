@@ -1,7 +1,5 @@
 <div align="center">
-  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
-  
 </div>
 
 <h1 align="center">
@@ -163,6 +161,22 @@
         height="45"
       />
     </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+        alt="matplotlib"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+        alt="seaborn"
+        width="45"
+        height="45"
+      />
+    </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
@@ -175,6 +189,14 @@
       <img
         src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
         alt="tensorflow"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"
+        alt="keras"
         width="45"
         height="45"
       />
@@ -289,7 +311,5 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
-  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
-  
 </div>
