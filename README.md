@@ -11,6 +11,11 @@
   />
 </h1>
 
+## ⚡ Project
+
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
+
 ## ⚡ Technologies & Tools
 <div align="center">
   <h3>🎨 Frontend Development</h3>
