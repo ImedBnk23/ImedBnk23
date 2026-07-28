@@ -12,9 +12,14 @@
 ## ⚡ Technologies & Tools:
 <div align="center">
   <h3>🎨 Frontend Development</h3>
-  ### 🎨 Frontend Development
+### 🎨 Frontend Development
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![Vite](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg)
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
