@@ -277,14 +277,6 @@
 
   <h3>🛠️ Tools & Frameworks</h3>
   <p>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker"
-        width="45"
-        height="45"
-      />
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -305,6 +297,14 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
         alt="anaconda"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        alt="docker"
         width="45"
         height="45"
       />
