@@ -153,6 +153,14 @@
         height="45"
       />
     </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+        alt="numpy"
+        width="45"
+        height="45"
+      />
+    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
@@ -281,6 +289,22 @@
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+        alt="jupyter"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
+        alt="anaconda"
         width="45"
         height="45"
       />
