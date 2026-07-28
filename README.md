@@ -11,7 +11,7 @@
   />
 </h1>
 
-## ⚡ Technologies & Tools:
+## ⚡ Technologies & Tools
 <div align="center">
   <h3>🎨 Frontend Development</h3>
 
