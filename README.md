@@ -9,28 +9,93 @@
   />
 </h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ImedBnk23">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:imedbnk23@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail" width="45" alt="Gmail">
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## ⚡ Technologies & Tools:
 <div align="center">
+  <h3 align="center">🎨 Frontend Development</h3>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="HTML5"
+            width="45"
+            height="45"
+          />
+        </a>
+        <br />HTML5
+      </td>
+
+      <td align="center">
+        <a
+          href="https://www.w3schools.com/css/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="CSS3"
+            width="45"
+            height="45"
+          />
+        </a>
+        <br />CSS3
+      </td>
+
+      <td align="center">
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="JavaScript"
+            width="45"
+            height="45"
+          />
+        </a>
+        <br />JavaScript
+      </td>
+
+      <td align="center">
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+            alt="Bootstrap"
+            width="45"
+            height="45"
+          />
+        </a>
+        <br />Bootstrap
+      </td>
+
+      <td align="center">
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="React"
+            width="45"
+            height="45"
+          />
+        </a>
+        <br />React
+      </td>
+
+      <td align="center">
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
+            alt="Vite"
+            width="45"
+            height="45"
+          />
+        </a>
+        <br />Vite
+      </td>
+    </tr>
+  </table>
   <h3>🎨 Frontend Development</h3>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -352,7 +417,7 @@
   </p>
 </div>
 
-
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -372,6 +437,7 @@
   &nbsp;&nbsp;&nbsp;
 </div>
 
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
