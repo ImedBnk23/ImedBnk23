@@ -12,6 +12,7 @@
 ## ⚡ Technologies & Tools:
 <div align="center">
   <h3>🎨 Frontend Development</h3>
+
   <table>
     <tr>
       <td>
@@ -24,7 +25,6 @@
           />
         </a>
       </td>
-
       <td>
         <a
           href="https://www.w3schools.com/css/"
@@ -39,7 +39,6 @@
           />
         </a>
       </td>
-
       <td>
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -54,7 +53,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img
@@ -65,7 +63,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img
@@ -76,7 +73,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
           <img
