@@ -141,7 +141,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
           <img
@@ -169,7 +168,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img
@@ -180,7 +178,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
           <img
@@ -191,7 +188,6 @@
           />
         </a>
       </td>
-
       <td>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img
@@ -206,7 +202,7 @@
   </table>
 
   <h3>🤖 AI - ML & Deep Learning - Data science</h3>
-  
+
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
