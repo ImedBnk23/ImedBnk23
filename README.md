@@ -1,7 +1,5 @@
 <div align="center">
-  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
-  
 </div>
 
 <h1 align="center">
@@ -222,16 +220,6 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
             alt="numpy"
-            width="45"
-            height="45"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas"
             width="45"
             height="45"
           />
@@ -489,7 +477,5 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
-  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
-  
 </div>
