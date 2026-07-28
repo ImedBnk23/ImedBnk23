@@ -1,5 +1,7 @@
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
+  
 </div>
 
 <h1 align="center">
@@ -13,24 +15,8 @@
 <div align="center">
   <h3>🎨 Frontend Development</h3>
   
-  <a href="https://skillicons.dev" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,react"
-      alt="Frontend Skills"
-    />
-  </a>
-
-  <p>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="React"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
-
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+  
   <h3>⚙️ Backend Development</h3>
   <p>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
