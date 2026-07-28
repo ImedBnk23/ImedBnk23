@@ -86,92 +86,127 @@
     </tr>
   </table>
 
-
   <h3>⚙️ Backend Development</h3>
-  <p>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-        alt="php"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+            alt="PHP"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="Node.js"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="Express.js"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <h3>📱 Mobile App Development</h3>
-  <p>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img
-        src="https://reactnative.dev/img/header_logo.svg"
-        alt="reactnative"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td>
+        <a
+          href="https://developer.android.com"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            alt="Android"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+
+      <td>
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://reactnative.dev/img/header_logo.svg"
+            alt="React Native"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <h3>🗃️ Database</h3>
-  <p>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-        alt="oracle"
-        width="45"
-        height="45"
-      />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-        alt="sqlite"
-        width="45"
-        height="45"
-      />
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="MongoDB"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+
+      <td>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="MySQL"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+
+      <td>
+        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+            alt="Oracle"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+
+      <td>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+            alt="SQLite"
+            width="45"
+            height="45"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <h3>🤖 AI - ML & Deep Learning - Data science</h3>
+  
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
