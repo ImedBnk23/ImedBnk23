@@ -1,5 +1,7 @@
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
+  
 </div>
 
 <h1 align="center">
@@ -335,7 +337,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 ## 🌐 Connect with Me
 
-<div>
+<div align="center">
   <a href="https://github.com/ImedBnk23">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
@@ -355,5 +357,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
+  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
+  
 </div>
