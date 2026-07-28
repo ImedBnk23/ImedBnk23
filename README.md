@@ -13,6 +13,7 @@
 
 ## ⚡ Technologies & Tools:
 <div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <h3>🎨 Frontend Development</h3>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
