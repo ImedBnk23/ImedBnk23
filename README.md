@@ -1,7 +1,7 @@
 <div align="center">
-  
+
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
-  
+
 </div>
 
 <h1 align="center">
@@ -11,8 +11,18 @@
   />
 </h1>
 
-## ⚡ Project
+## 👨‍💻 About Me
 
+<h3>
+  AI Expert | Computer Vision & LLM Specialist | Real-time Systems
+</h3>
+<img
+  align="right"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp"
+  width="200"
+/>
+
+I'm Imed BENKHALFALLAH .....
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
@@ -473,6 +483,13 @@
 </div>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
+
+## 🚀 Projects 
+
+- 🏨 **[Hotel Reservation System](https://github.com/imedbnk23)** - Web app to book hotel rooms online
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -500,7 +517,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 <div align="center">
-  
+
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
   
 </div>
