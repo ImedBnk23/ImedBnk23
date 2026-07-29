@@ -16,7 +16,7 @@
 <h3>Software Engineer | AI Engineer | Data Scientist | Full-Stack Developer | Computer Science Engineer.</h3>
 <img
   align="right"
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVnMGJ6aWpvNjQ4ODUyYTV6em1neXAyNHVjNDJocTYzdGkzN3R2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"
   width="200"
 />
 
@@ -501,6 +501,8 @@ I'm Mohamed Imed Eddine BENKHALFALLAH .....
     />
   </a>
 </div>
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 ## 🌐 Connect with Me
 
