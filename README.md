@@ -13,20 +13,19 @@
 
 ## 👨‍💻 About Me
 
-<h3>
-  AI Expert | Computer Vision & LLM Specialist | Real-time Systems
-</h3>
+<h3>Software Engineer | AI Engineer | Data Scientist | Full-Stack Developer | Computer Science Engineer.</h3>
 <img
   align="right"
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp"
   width="200"
 />
 
-I'm Imed BENKHALFALLAH .....
+I'm Mohamed Imed Eddine BENKHALFALLAH .....
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
 
 ## ⚡ Technologies & Tools
+
 <div align="center">
   <h3>🎨 Frontend Development</h3>
 
@@ -486,9 +485,22 @@ I'm Imed BENKHALFALLAH .....
 
 ## 🚀 Projects 
 
-- 🏨 **[Hotel Reservation System](https://github.com/imedbnk23)** - Web app to book hotel rooms online
+- 🏨 **[Hotel Reservation System](https://github.com/imedbnk23)** - Web app to book hotel rooms online.
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ImedBnk23)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a
+    href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false"
+  >
+    <img
+      alt="ImedBnk23's GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/ImedBnk23?cardType=github&theme=github-dark&fontFamily=&preferLogin=false"
+    />
+  </a>
+</div>
 
 ## 🌐 Connect with Me
 
@@ -519,5 +531,5 @@ I'm Imed BENKHALFALLAH .....
 <div align="center">
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=100&section=footer)
-  
+
 </div>
