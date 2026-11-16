@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=200&section=header&text=Imed%20BENKHALFALLAH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=ddccff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=FFB347&section=header&reversal=false&text=Imed+BENKHALFALLAH&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=43&rotate=0&strokeWidth=0&desc=Software+Engineer+%E2%80%A2+AI+%E2%80%A2+Data+Scientist+%E2%80%A2+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=60)
 
 </div>
 
