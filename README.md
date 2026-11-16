@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=FFB347&section=header&reversal=false&text=Imed+BENKHALFALLAH&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=43&rotate=0&strokeWidth=0&desc=Software+Engineer+%E2%80%A2+AI+%E2%80%A2+Data+Scientist+%E2%80%A2+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=300&color=FFB347&section=header&reversal=false&text=Imed+BENKHALFALLAH&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=43&rotate=0&stroke=ffffff&strokeWidth=0&desc=Software+Engineer+%E2%80%A2+AI+%E2%80%A2+Data+Scientist+%E2%80%A2+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=60))
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=FFB347&section=header&reversal=false&text=Imed+BENKHALFALLAH&textBg=false&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=43&rotate=0&stroke=ffffff&strokeWidth=0&desc=Software+Engineer+%E2%80%A2+AI+%E2%80%A2+Data+Scientist+%E2%80%A2+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=60)
 
 </div>
 
